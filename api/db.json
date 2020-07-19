@@ -1,0 +1,42 @@
+{
+  "streams": [
+    {
+      "title": "anshika",
+      "description": "othet stream",
+      "id": 1
+    },
+    {
+      "title": "anshika",
+      "description": "othet stream",
+      "id": 2
+    },
+    {
+      "title": "anshika",
+      "description": "other",
+      "id": 3
+    },
+    {
+      "title": "i created this stream",
+      "description": "This stream is made by me",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "anshika",
+      "description": "is a smart girl",
+      "userId": "115519096904354529520",
+      "id": 6
+    },
+    {
+      "title": "me streaming component reuse",
+      "description": "watch me refactor",
+      "id": 7
+    },
+    {
+      "title": "1.",
+      "description": "one",
+      "userId": "115519096904354529520",
+      "id": 8
+    }
+  ]
+}
